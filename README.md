@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Axel and I'm a AI developer interested in all things Python & Data Science!
+I'm a 🇨🇲 trader, Python developer, and asset manager, currently CEO of Monarch Capital Holding Inc. Residing in 🇫🇷 Paris, I'm passionate about 🐍 Python and C#. Outside of work, I enjoy ⚽ football, 🏀 basketball, 🎸 guitar, ✍️ poetry, and 💪 bodybuilding.
 
 - 🔭 I’m currently working on Unity & GAN SONIC Craft [SONIC-CRAFT], building a dynamic level generator for Sonic-like game in unity.
 - 🌱 I’m recently made an adaptation of the TOAD-GAN model for sonic game level generation. Check it out [here]
