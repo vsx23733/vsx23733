@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 🇨🇲 trader, Python developer, and asset manager, currently CEO of Monarch Capital Holding Inc. Residing in 🇫🇷 Paris, I'm passionate about 🐍 Python and C#. Outside of work, I enjoy ⚽ football, 🏀 basketball, 🎸 guitar, ✍️ poetry, and 💪 bodybuilding.<br><br>🔭 I’m currently working on Unity & GAN SONIC Craft [SONIC-CRAFT], building a dynamic level generator for Sonic-like game in unity.<br>🌱 I’ve recently made an adaptation of the TOAD-GAN model for sonic game level generation. Check it out [here]<br>
+I'm a 🇨🇲 trader, Python developer, and asset manager, currently CEO of Monarch Capital Holding Inc. Residing in 🇫🇷 Paris, I'm passionate about 🐍 Python and C#. Outside of work, I enjoy ⚽ football, 🏀 basketball, 🎸 guitar, ✍️ poetry, and 💪 bodybuilding.<br><br>🔭 I’m currently working on Unity & GAN SONIC Craft [SONIC-CRAFT], building a dynamic level generator for Sonic-like game in unity.<br>🌱 I’ve recently made an adaptation of the TOAD-GAN model for sonic game level generation. Check it out [here]<br><br>📄 Know about my experiences [https://beacons.ai/axelonobiono](https://beacons.ai/axelonobiono)<br>
 
 
 ## 🌐 How to reach me:
