@@ -18,11 +18,11 @@ I'm a 🇨🇲 trader, Python developer, and asset manager, currently CEO of Mon
 ### 🔝 My Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vsx23733&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=vsx23733&icon=0&color=0)](https://visitcount.itsvg.in)
+### My Trophees
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsx23733" alt="vsx23733" /></a></p>
 
-  ## 💰 Help me developing awesome projects
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/axelonobiono) 
+## 💰 Help me developing awesome projects
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/axelonobiono) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsx23733/tobiasmeyhoefer/output/github-snake-dark.svg" />
