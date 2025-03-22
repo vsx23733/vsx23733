@@ -19,7 +19,7 @@ Yo! I'm a 🇨🇲 trader, Python developer, and asset manager, currently CEO of
 ![](https://github-contributor-stats.vercel.app/api?username=vsx23733&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### My Trophees
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsx23733" alt="vsx23733" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsx23733&theme=onedark" alt="vsx23733" /></a></p>
 
 ## 💰 Help me developing awesome projects
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/axelonobiono) 
