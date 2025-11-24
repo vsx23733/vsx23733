@@ -1,7 +1,9 @@
 # 💫 About Me:
 Yo! I'm a Trader, Software Engineer oriented Data & Machine Learning, and Private Fund Manager. Residing in 🇫🇷 Paris, I'm passionate about just developping useful or fun project. Outside of work, I enjoy ⚽ football, ✍️ poetry, 🏀 basketball, 🎸 guitar , ♘ chess and 💪 bodybuilding.
 <br><br>🔭 I’m currently working at BXAMZ as a Software Engineer. 
+
 The most recent project I did is creating a 3D Metroidvania game called Soul Mosaic. Check it out here : [Soul Mosaic](https://epsilon-game-studio.itch.io/soul-mosaic)
+
 One of my last project is SONIC Craft [SONIC-CRAFT](https://github.com/vsx23733/SONIC-CRAFT-UNITY), building a dynamic level generator for Sonic-like game in unity.<br>🌱
 I’ve also made an adaptation of the TOAD-GAN model for sonic game level generation. Check it out [here](https://github.com/vsx23733/SONIC-GAN)<br>
 📄 Know about my experiences [Axel's Website](https://beacons.ai/axelonobiono)<br>
