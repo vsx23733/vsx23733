@@ -26,5 +26,5 @@ Before that, I created a 3D Metroidvania game called Soul Mosaic. Check it out h
 ![](https://github-contributor-stats.vercel.app/api?username=vsx23733&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🏆 My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vsx23733&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vsx23733&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
