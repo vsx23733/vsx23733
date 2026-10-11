@@ -1,5 +1,6 @@
 # 💫 About Me:
-Yo! I'm a Trader, Entrepreneur, and Software Engineer. Residing in 🇫🇷 Paris, I'm passionate about just developping useful or fun project. Outside of work, I enjoy ⚽ football, ✍️ poetry, 🏀 basketball, 🎸 guitar, ♘ chess, 💪 bodybuilding, 🎮 video games and 📺 anime / manga.
+Yo! I'm a Trader, Entrepreneur, and Software Engineer. Residing in 🇫🇷 Paris, I'm passionate about just developping useful or fun project. Outside of work, I enjoy ⚽ football, ✍️ poetry, 🏀 basketball, 🎸 guitar / music, ♘ chess, 💪 bodybuilding, 🎮 video games and 📺 anime / manga.
+
 <br><br>🔭 I'm currently working at BXAMZ as a Software Engineer. 
 <br><br>👑 Building Monarch, my lifetime project.
 
